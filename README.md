@@ -1,6 +1,6 @@
-# OpenAI-Cyber-Proposal
+# A.R.C.H.E.R. Project Proposal & Description
 
-Developing & Enhancing A.R.C.H.E.R: An AI-Powered Tool for Vulnerability Detection and Reverse Engineering
+Developing & Enhancing A.R.C.H.E.R.: An AI-Powered Tool for Vulnerability Detection and Reverse Engineering
 
 1. Set of Questions or Problems the Project Will Address
 
